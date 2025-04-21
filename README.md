@@ -2,4 +2,4 @@
 
 A system identifying incorrect posture of students 
 
-Currently investigating YOLOv3
+Currently investigating OpenPose
