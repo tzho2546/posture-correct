@@ -1,0 +1,8 @@
+train: /home/user/posture-correct/train/images
+val: /home/user/posture-correct/val/images
+test: /home/user/posture-correct/test/images
+
+nc: 2  # Number of classes in your dataset
+names:
+  0: wrong-posture
+  1: correct-posture
